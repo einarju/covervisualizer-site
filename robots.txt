@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /app
+Disallow: /signin
+Disallow: /styleguide
+
+Sitemap: https://covervisualizer.com/sitemap.xml
